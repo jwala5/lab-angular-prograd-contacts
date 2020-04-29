@@ -17,7 +17,13 @@ form {
 ul {
   list-style-type: none;
 }
+
 li {
   margin-top: 20px;
   width: 30%;
+}
+
+div {
+  padding: 2px;
+  margin: 2px;
 }
